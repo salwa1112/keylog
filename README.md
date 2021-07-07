@@ -3,7 +3,7 @@ Keyloggers are programs that give hackers access to our personal data as these a
 In one work keyloggers are the programs to capture the key strokes of our computer.
 They keep logs of everything we press on the keyboard like any password, credit card number. Despite of that it can be useful as well.
 
-I have made a keyloggers which is a basic one with not much functionality as the ones available in market now.
+I have made a keylogger which is a basic one with not much functionality as the ones available in market now.
 It will capture all keystrokes and saves them in a file named "keylogger.txt".
 Then it will send the contents of the file to the given email address.
 I did not make it executable so it has to be explicitely called.
